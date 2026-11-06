@@ -7,9 +7,9 @@ design is vibecoded (im ass at designing things) aswell as the powershell fix bc
 ## Requirements
 
 - A pc with windows
-- Minecraft 26.1.2, Fabric Loader 0.19.3+, Fabric API
+- Minecraft 26.2/26.2, Fabric Loader 0.19.3+, Fabric API
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-- like 1kb of ram
+- like 20mb of ram
 - a Screen
 
 ## Commands
