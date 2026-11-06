@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "noteblockaddons",
+  "version": "${version}",
+  "name": "NoteblockAddons",
+  "description": "Shows what you're listening to with lyrics. Windows only for now. Requires Fabric Language Kotlin.",
+  "authors": [
+    "Ryoxis"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.noteblockaddons.client.NoteblockAddonsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "${minecraft_dependency}",
+    "java": ">=25",
+    "fabric-api": "*",
+    "cascade": "*",
+    "fabric-language-kotlin": "*"
+  }
+}
